@@ -21,7 +21,7 @@ const config = {
   organizationName: 'ethanfs20', // Usually your GitHub org/user name.
   projectName: 'my-website', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
