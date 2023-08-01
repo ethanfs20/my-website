@@ -3,46 +3,35 @@
 ## Table of Contents
 - [fivem\_gravgun](#fivem_gravgun)
   - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Support](#support)
-  - [License](#license)
-  - [Credits](#credits)
+  - [Description ](#description-)
+  - [Features ](#features-)
+  - [Installation ](#installation-)
+  - [How Do I Use This? ](#how-do-i-use-this-)
+  - [Let's Connect! ](#lets-connect-)
+  - [License ](#license-)
 
-## Description
+## Description <a name="description"></a>
+GTA V Gravity Gun wannabe is a fun little FiveM script that brings the spirit of Half-Life 2's gravity gun to the streets of Los Santos. Developed for GTA V's FiveM multiplayer mod, this script allows players to wield a gravity gun-like tool to manipulate entities in the game world.
 
-Think Half-Life 2, but in Los Santos! This script allows players to equip a "gravity gun" that can manipulate and control entities within the game world. The functionality can be triggered using the 'E' key when aiming at an entity, with the scroll wheel adjusting the entity's distance from the player.
+## Features <a name="features"></a>
+- Gravity Gun-like Tool: Equipped with your trusty pistol, free aim at an entity and hit E to start controlling it.
+- Entity Manipulation: Use the scroll wheel to adjust how far the entity is from you.
+- Release the Entity: Hit E again when you're ready to let the entity go.
 
-## Features
+## Installation <a name="installation"></a>
+1. Download the `GravityGun` folder from the [GitHub repository](https://github.com/ethanfs20/fivem_gravgun).
+2. Place the `GravityGun` folder in your server's resources directory.
+3. Add `ensure GravityGun` to your `server.cfg` to enable the script on server startup.
 
-- Control and manipulate in-game entities using a "gravity gun" mechanic.
-- Adjust the distance of controlled entities using the mouse scroll wheel.
-- Intuitive controls using the 'E' key and free aim.
+## How Do I Use This? <a name="how-do-i-use-this"></a>
+1. Equip your trusty pistol in-game.
+2. Free aim at an entity you want to control with the gravity gun.
+3. Press E to start controlling the entity.
+4. Use the scroll wheel to adjust the distance between you and the entity.
+5. Press E again to release the entity when you're done.
 
-## Installation
+## Let's Connect! <a name="lets-connect"></a>
+Got questions? Just want to chat about all things GTA V? Join me on Discord: [https://discord.gg/BGwrmpjRyQ](https://discord.gg/BGwrmpjRyQ)
 
-1. Download the `GravityGun` script from the GitHub repository [here](https://github.com/ethanfs20/GravityGun).
-2. Place the `GravityGun` folder in your FiveM server's resource directory.
-3. Add `ensure GravityGun` to your `server.cfg` file.
-
-## Usage
-
-Equip your pistol and free aim at an entity. Hit 'E' to start controlling the entity. The scroll wheel will let you adjust how far the entity is from you. Hit 'E' again when you're ready to let the entity go.
-
-## Support
-
-For questions or discussion about GTA V and this script, join Ethan4t0r's Discord server [here](https://discord.gg/BGwrmpjRyQ).
-
-## License
-
-This script is licensed under the [MIT License](LICENSE), permitting use, modification, and distribution of the resource freely.
-
-## Credits
-
-This resource was developed by Ethan4t0r.
-
----
-
-**Note**: This README was automatically generated with ❤️ by README-Template-Maker.
+## License <a name="license"></a>
+This script is under the MIT License, so feel free to use it as you please!

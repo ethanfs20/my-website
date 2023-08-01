@@ -17,44 +17,6 @@ Greetings! I am Ethan4t0r, an adept and passionate game developer, embarking on 
 
 - **CentOS Stream:** CentOS Stream serves as a rolling-release development platform for Red Hat Enterprise Linux (RHEL), providing a balance between the latest packages and stability. It's widely used for development and testing environments.
 
-## AWS Services
-
-- **Amazon EC2 (Elastic Compute Cloud):** A scalable virtual server service that allows users to launch and manage virtual machines on the AWS cloud.
-
-- **Amazon S3 (Simple Storage Service):** A scalable object storage service for securely storing and retrieving any amount of data.
-
-- **Amazon RDS (Relational Database Service):** A managed database service that makes it easy to set up, operate, and scale relational databases, including MySQL, PostgreSQL, Oracle, and more.
-
-- **Amazon DynamoDB:** A managed NoSQL database service that provides fast and flexible document and key-value storage.
-
-- **AWS Lambda:** A serverless compute service that lets you run code without provisioning or managing servers.
-
-- **Amazon VPC (Virtual Private Cloud):** A service that lets you create a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network.
-
-- **Amazon CloudFront:** A content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally.
-
-- **Amazon SNS (Simple Notification Service):** A fully managed messaging service for sending notifications, alerts, and SMS messages to users and applications.
-
-- **AWS IAM (Identity and Access Management):** A service that enables you to securely control access to AWS resources for users and groups.
-
-- **Amazon Route 53:** A scalable domain name system (DNS) web service designed to provide highly reliable and cost-effective domain registration, DNS routing, and health checking.
-
-- **Amazon SQS (Simple Queue Service):** A fully managed message queuing service for decoupling and scaling microservices, distributed systems, and serverless applications.
-
-- **Amazon ECS (Elastic Container Service):** A highly scalable, high-performance container orchestration service that supports Docker containers.
-
-- **AWS CloudFormation:** A service that provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.
-
-- **AWS CloudWatch:** A monitoring and observability service that provides data and actionable insights for AWS resources and applications.
-
-- **AWS Elastic Beanstalk:** A fully managed service that makes it easy to deploy and run applications in multiple languages.
-
-- **Amazon Redshift:** A fully managed data warehousing service that allows you to run complex queries and analyze large datasets.
-
-- **AWS Glue:** A fully managed extract, transform, and load (ETL) service that makes it easy to move data between data stores.
-
-- **AWS Step Functions:** A serverless workflow service for building and visualizing workflows that automate business processes.
-
 ## Scripting Languages
 
 - **Lua:** A lightweight, fast, and versatile scripting language designed primarily for embedding in applications. It is often used as a scripting language for video games and other applications where flexibility and simplicity are essential.
